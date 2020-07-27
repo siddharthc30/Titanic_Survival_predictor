@@ -1,4 +1,4 @@
-# Titanic_Survival_predictor
+# Titanic_Survival_Predictor
 
-A regression model to predict the survival of an onboard person on titanic.
-Also it did EDA for the dataset
+    This repo contains a small Exploratory data analysis of the titanic survival dataset and also has some regresion models which predict the survival chances of a person on board with the help of considered features.
+This dataset contains 
