@@ -5,7 +5,7 @@ This repo contains a small Exploratory data analysis of the titanic survival dat
 - This dataset contains 891 examples with 12 features.
 - The info of this dataset is below.
 
- ! [dataset info](/home/siddharth/Titanic_Survival_predictor/data_info.png)
+ ![dataset info](/home/siddharth/Titanic_Survival_predictor/data_info.png)
 
  While performing EDA, for the first time I had used violin plot.
 
